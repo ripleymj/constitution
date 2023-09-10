@@ -2,8 +2,9 @@
 
 October 25, 1999  
 Authored by David Wilburn,  
-Amended, May 1, 2003.  
-Amended, April 17, 2019.  
+Amended, May 1, 2003,
+Amended, April 17, 2019,
+Amended, September 2023
 
 ## Article I - Name of Organization
 
@@ -19,7 +20,7 @@ to develop more effective ways of working with UNIX-like and open systems. The
 UUG also emphasizes sharing of knowledge in these areas and contributing back
 to the global computing community.
 
-## Article III - Membership and Dues
+## Article III - Membership, Dues, and Finances
 
 Membership in this organization is open to all JMU students and will not be
 restricted on the basis of age, ability, ethnicity, gender, national origin,
@@ -45,6 +46,12 @@ membership if actions are deemed inappropriate by the membership. Dues are
 non-refundable, regardless of voluntary membership termination or revocation.  
 Once a person's membership has been revoked (whether paid or not), they shall
 not attend any future meetings.
+
+Organization funds from dues and fundraisers shall be stored in the club bank
+account. Funds shall be used for activites of general benefit to members, at the
+discretion and consensus of the officers. The treasurer and advisers shall have
+access to the club account.
+
 
 ## Article IV - Officers
 
@@ -85,6 +92,10 @@ determined by their fellow officers.
 Officers may be removed from office by ½ vote of the other officers and ¾ of
 the general membership if actions are deemed inappropriate by the membership.
 
+Officer vacancies shall be filled by either appointment or special election, by
+consensus of the remaining officers and advisers with respect to how long until
+the next regular election.
+
 ## Article V - Adviser
 
 The adviser(s) shall be a faculty or staff member at James Madison University.
@@ -116,6 +127,15 @@ The officers shall hold business meetings as necessary through the semester,
 to plan content and strategy for the regular meetings and club projects. The
 outcomes and decisions of these meetings shall be presented to the club members
 at a regular meeting as necessary and appropriate.
+
+Quorum shall consist of a simple majority of the membership and is only required
+during votes. Voting shall be postponed or kept open until quorum is achieved.
+
+Meetings shall be conducted at the discretion of the weekly presenter invited by
+the officers.
+
+Meeting minutes are not normally taken, though presenters are encouraged to post
+their presentation notes for members to reference later.
 
 ## Article VII - Hazing
 
@@ -185,7 +205,15 @@ of hazing by this organization or any of the members of this organization.  It
 will be the duty of the officers of the Unix Users Group to educate the
 membership of this policy.
 
-## Article VIII - Amendments
+## Article VIII - Risk Management
+
+The executive board is responsible for overseeing the well-being of the
+organization, members and guests at activities and events sponsored by the
+organization. Violations of JMU policy, local, state or federal law at any
+meeting or event is strictly prohibited. Any violation should be reported
+directly to OSARP and/or Title IX.
+
+## Article IX - Amendments
 
 Amendments to this constitution must be submitted in writing at a regular
 meeting of the organization. Said amendment(s) will be voted on at a subsequent
@@ -197,14 +225,14 @@ of Student Activities and Involvement in order to retain good standing. These
 changes should be announced at a regular meeting of the organization; however,
 they do not need to be voted on by the membership.
 
-## Article IX - Ratification
+## Article X - Ratification
 
 This constitution shall become effective upon approval by a ¾ vote of the
 membership. Ratified constitutions must be uploaded to the Be Involved
 organization page in a timely manner after substantial amendments and
 submitted each year with Annual Organization Registration.
 
-## Article X - Dissolution of Organization
+## Article XI - Dissolution of Organization
 
 In the event of dissolution of the Unix Users Group, the final officers and
 advisors shall decide how to distribute remaining funds to organizations such
