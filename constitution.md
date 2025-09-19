@@ -2,8 +2,10 @@
 
 October 25, 1999  
 Authored by David Wilburn,  
-Amended, May 1, 2003.  
-Amended, April 17, 2019.  
+Amended, May 1, 2003,
+Amended, April 17, 2019,
+Amended, September 2023,
+Amended, June 2025
 
 ## Article I - Name of Organization
 
@@ -19,41 +21,19 @@ to develop more effective ways of working with UNIX-like and open systems. The
 UUG also emphasizes sharing of knowledge in these areas and contributing back
 to the global computing community.
 
-## Article III - Membership and Dues
+## Article III - Organization Structure
 
-Membership in this organization is open to all JMU students and will not be
-restricted on the basis of age, ability, ethnicity, gender, national origin,
-race, color, religion, veteran status, sexual orientation, gender identity,
-or political affiliation except in circumstances outlined in federal and
-state laws.
+### Section I - Requirements for Officers
 
-The UUG strives to maintain an open door policy for its meetings, so membership
-is not required for attendance, and anyone from the university or wider
-community may attend. Membership dues will be set by the officers during the
-first business meeting, and membership will be open the first month of the
-semester. Dues paying members will be eligible to vote in matters when the
-officers deem it necessary. Members will also be eligible to run for officer
-positions.
+Officers must be full-time students at JMU. The term of office will be one full
+year, from April to April, though outgoing officers should spend the remainder
+of the year ensuring the incoming officers are prepared for their new duties.
+All officers shall comprise the Executive Committee of the organization. The
+Executive Committee shall meet in addition to regular organization meetings.
 
-Caution will be taken to not make dues a financial burden. Officers may grant
-exemptions on a case-by-case basis to members experiencing a hardship, with
-consideration given to the member's past and expected contributions to club
-meetings and projects.
+### Section II - Executive Board Positions
 
-Membership will be revoked by ½ vote of officers plus ¾ vote from the general
-membership if actions are deemed inappropriate by the membership. Dues are
-non-refundable, regardless of voluntary membership termination or revocation.  
-Once a person's membership has been revoked (whether paid or not), they shall
-not attend any future meetings.
-
-## Article IV - Officers
-
-Election of officers will require a majority vote from the general membership.
-The term of office will be one full year, from April to April, though outgoing
-officers should spend the remainder of the year ensuring the incoming officers
-are prepared for their new duties. All officers shall comprise the Executive
-Committee of the organization. The Executive Committee shall meet in addition
-to regular organization meetings. The officers and individual duties shall be:
+The officers and individual duties shall be:
 
 - President
   - Set meeting schedule and preside over all meetings
@@ -82,28 +62,83 @@ All officers are expected to help promote the organization around campus, and
 take on additional duties as necessary for the operation of the UUG, as
 determined by their fellow officers.
 
+### Section III - Elections
+
+Election of officers will require a majority vote from the general membership.
+Nominations will be collected from members in advance, and a ballot distributed
+to members for any contested positions.
+
+### Section IV - Officer Removal Process
+
 Officers may be removed from office by ½ vote of the other officers and ¾ of
 the general membership if actions are deemed inappropriate by the membership.
 
+### Section V - Position Vacancies
+
+Officer vacancies shall be filled by either appointment or special election, by
+consensus of the remaining officers and advisers with respect to how long until
+the next regular election.
+
+## Article IV - Membership, Dues, and Finances
+
+Membership in this organization is open to all JMU students and will not be
+restricted on the basis of age, ability, ethnicity, gender, national origin,
+race, color, religion, veteran status, sexual orientation, gender identity,
+or political affiliation except in circumstances outlined in federal and
+state laws.
+
+The UUG strives to maintain an open door policy for its meetings, so membership
+is not required for attendance, and anyone from the university or wider
+community may attend. Membership dues will be set by the officers during the
+first business meeting, and membership will be open the first month of the
+semester. Dues paying members will be eligible to vote in matters when the
+officers deem it necessary. Members will also be eligible to run for officer
+positions.
+
+Caution will be taken to not make dues a financial burden. Officers may grant
+exemptions on a case-by-case basis to members experiencing a hardship, with
+consideration given to the member's past and expected contributions to club
+meetings and projects.
+
+Membership will be revoked by ½ vote of officers plus ¾ vote from the general
+membership if actions are deemed inappropriate by the membership. Dues are
+non-refundable, regardless of voluntary membership termination or revocation.  
+Once a person's membership has been revoked (whether paid or not), they shall
+not attend any future meetings.
+
+Organization funds from dues and fundraisers shall be stored in the club bank
+account. Funds shall be used for activites of general benefit to members, at the
+discretion and consensus of the officers. The treasurer and advisers shall have
+access to the club account.
+
 ## Article V - Adviser
 
-The adviser(s) shall be a faculty or staff member at James Madison University.
-The adviser will assume those responsibilities as outlined in this constitution
-and/or found in University Policy No. 3101 entitled "Faculty Advisers to
-Student Organizations."
+### Section I - Policy No. 3101 (Faculty Advisers to Student Organizations)
 
+The adviser shall be a full or part time faculty or staff member at James
+Madison University. The adviser will assume those responsibilities as outlined
+in this constitution and/or found in University Policy No. 3101 entitled
+“Faculty Advisers to Student Organizations.” 
+
+### Section II - Adviser Selection
 The adviser will be selected by a ½ vote of the Executive Committee and then
-presented to the general membership for a ¾ vote. Advisers not fulfilling
-responsibilities or abiding by the organization's purpose may be removed from
-the position by a ½ vote of the officers. The officers must have a bonafide
-offer from a substitute adviser before beginning removal proceedings. The
-adviser shall have the following responsibilites:
+presented to the general membership for a ¾ vote.
 
+### Section III - Adviser Role
+
+The adviser shall have the following responsibilites:
 - Call business meetings as necessary
 - Ensure the officers provide effective leadership of the club
 - Exercise the powers of the officers in case of an emergency
 - Call for officer nominations and conduct elections annually
 - Audit club finances
+
+### Section IV - Adviser Removal
+
+Advisers not fulfilling responsibilities or abiding by the organization's
+purpose may be removed from the position by a ½ vote of the officers. The
+officers must have a bonafide offer from a substitute adviser before beginning
+removal proceedings.
 
 ## Article VI - Meetings
 
@@ -117,75 +152,53 @@ to plan content and strategy for the regular meetings and club projects. The
 outcomes and decisions of these meetings shall be presented to the club members
 at a regular meeting as necessary and appropriate.
 
+Quorum shall consist of a simple majority of the membership and is only required
+during votes. Voting shall be postponed or kept open until quorum is achieved.
+
+Meetings shall be conducted at the discretion of the weekly presenter invited by
+the officers.
+
+Meeting minutes are not normally taken, though presenters are encouraged to post
+their presentation notes for members to reference later.
+
 ## Article VII - Hazing
 
-Unix Users Group, in keeping with JMU's expectations for a positive academic
-and social environment, unconditionally opposes hazing. No individual member of
-our group or the group itself may engage in or plan any activity that may be
-defined as hazing.
+Unix Users Group, in keeping with JMU’s expectations for a positive academic
+and social environment, unconditionally opposes hazing and other organizational
+misconduct. No individual member of our group or the group itself may engage in
+any activity or behavior that may violate any university policy.
+ 
+All members, officers, advisers and affiliates of Unix Users Group are required
+to follow the Standards of Conduct & Policies, as outlined in the JMU Student
+Handbook. The most up-to-date policy definitions can be found here:
+https://www.jmu.edu/osarp/handbook/osarp/standardsandpolicies.shtml
 
-Unix Users Group opposes any situation created intentionally to produce mental
-or physical discomfort, embarrassment, harassment or ridicule to its members
-or potential members. In addition, no individual nor recognized organization
-may, by physical or mental stress or by subtle or covert technique, impair,
-make captive, or destroy an individual's freedom of thought and choice.
+The most up-to-date definition of the university Hazing policy can be found
+here: https://www.jmu.edu/osarp/handbook/osarp/standardsandpolicies.shtml#Set-2-A-hazing
+Any member, officer, adviser and/or affiliate can report an allegation of hazingr
+ or other organizational misconduct to the Office of Student Accountability &
+Restorative Practices (OSARP). More information on reporting, including
+information about anonymous reporting, amnesty processes related to certain
+reporting, and campus and community resources for those who are considering a
+report can be found on the OSARP website:
+https://www.jmu.edu/osarp/reportingosarp/index.shtml#organizational
 
-J17-100 Hazing - The university prohibits any situation created intentionally
-to produce mental or physical discomfort, embarrassment, harassment or ridicule
-in connection with or the purpose of initiation, admission into, or affiliation
-with or as a condition for continued membership in a club, organization, or
-association, regardless of whether the students participated voluntarily in the
-relevant activity. Students directing, engaging in, aiding, or participating
-in, actively or passively, the forcing, compelling, requiring, encouraging,
-expecting, whether direct or implied, of individuals to participate in hazing
-activities shall be considered in violation of this policy.
+This section is hereby incorporated as part of this constitution and will serve
+as a guide for action by the university and Name of Organization if there is an
+instance of hazing or other organizational misconduct by this organization or
+any of the members of this organization. It will be the duty of the officers of
+Unix Users Group to educate the membership regarding the Standards of Conduct
+and Policies in the JMU Student Handbook.
 
-It is impossible to anticipate every situation that could involve hazing.
-Behavior listed below does not, and cannot encompass every circumstance that
-can be categorized as hazing. Further, this policy is not intended to prohibit
-customary athletic events, contests, and competitions that are sponsored by the
-institution or the organized and supervised practices associated with such
-events or activity or conduct that furthers the goals of a legitimate
-educational curriculum, extracurricular program, or military training program
-as approved by the University.
+## Article VIII - Risk Management
 
-Hazing activities include but are not limited to; physical abuse; kidnapping,
-blindfolding, confinement, or binding and/or restricting movement; calisthenics
-or other strenuous physical activity used to harass, punish, or harm an
-individual; excursions; spraying, painting, or pelting with any substance;
-burying in any substance; nudity; servitude; exposure to uncomfortable elements;
-verbal abuse or harassment; wearing of apparel which is conspicuous or indecent;
-forcing consumption of any legal or illegal substance (e.g. food, liquid,
-beverage, alcohol, drug, or other substance); depriving of sufficient sleep;
-burning, branding, or tattooing; interrogation in an intimidating or threatening
-manner; misleading members in an effort to convince them that they will not
-become or remain members unless they complete tasks, follow instructions, or act
-in a certain way; misleading members into believing that they will be hurt
-during induction or initiation; carrying items that serve no constructive
-purpose or that are designed to punish or embarrass the carrier; requiring or
-suggesting obtaining, possessing items or completing tasks in an unlawful manner
-(i.e. scavenger hunts); any act that is designed to or likely to compromise the
-dignity of a member or prospective member, cause embarrassment or shame to a
-member or prospective member, cause a member or prospective member to be the
-object of malicious amusement, ridicule, or emotional strain, or cause
-psychological harm or substantial emotional strain; or any other activity which
-may result in physical injury or endanger the health or life of the individual
-being hazed.
+The executive board is responsible for overseeing the well-being of the
+organization, members and guests at activities and events sponsored by the
+organization. Violations of JMU policy, local, state or federal law at any
+meeting or event is strictly prohibited. Any violation should be reported
+directly to OSARP and/or Title IX.
 
-An individual cannot consent to being hazed; a victim's voluntary or willful
-participation in hazing activities will not be considered evidence that a
-violation of this policy did not occur. Section 18.2-56 of the Code of Virginia
-declares hazing illegal, establishes conditions for civil and criminal
-liability, and outlines the duties of the university when a student has been
-found guilty of hazing in civil or criminal court.
-
-It is hereby incorporated as part of this constitution and will serve as a guide
-for action by the university and the Unix Users Group if there is an instance
-of hazing by this organization or any of the members of this organization.  It
-will be the duty of the officers of the Unix Users Group to educate the
-membership of this policy.
-
-## Article VIII - Amendments
+## Article IX - Amendments
 
 Amendments to this constitution must be submitted in writing at a regular
 meeting of the organization. Said amendment(s) will be voted on at a subsequent
@@ -197,14 +210,14 @@ of Student Activities and Involvement in order to retain good standing. These
 changes should be announced at a regular meeting of the organization; however,
 they do not need to be voted on by the membership.
 
-## Article IX - Ratification
+## Article X - Ratification
 
 This constitution shall become effective upon approval by a ¾ vote of the
 membership. Ratified constitutions must be uploaded to the Be Involved
 organization page in a timely manner after substantial amendments and
 submitted each year with Annual Organization Registration.
 
-## Article X - Dissolution of Organization
+## Article XI - Dissolution of Organization
 
 In the event of dissolution of the Unix Users Group, the final officers and
 advisors shall decide how to distribute remaining funds to organizations such
